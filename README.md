@@ -29,7 +29,7 @@ https://github.com/Rohan-J123/CrimeChronicles/assets/139244765/840a00f3-7ade-4a0
 
 If the game fails to host a server, follow these steps:
 1. Download the GitHub repository from Crime Chronicles on GitHub.
-2. Navigate to https://github.com/Rohan-J123/CrimeChronicles/tree/main/CrimeChronicles/Assets/StreamingAssets/Scripts/contextful_parsing and execute the run.sh file using bash or run the commands listed in the file individually in the terminal. This will start a server using Docker.
+2. Navigate to [directory](https://github.com/Rohan-J123/CrimeChronicles/tree/main/CrimeChronicles/Assets/StreamingAssets/Scripts/contextful_parsing) and execute the run.sh file using bash or run the commands listed in the file individually in the terminal. This will start a server using Docker.
 3. Return to the game and press the "Start Game" button.
 
 ### Gameplay Overview:
@@ -46,12 +46,9 @@ https://github.com/Rohan-J123/CrimeChronicles/assets/139244765/d0c9342d-4579-40c
 
 ### Download the GitHub Repository:
 
-1. Navigate to the [required directory](https://github.com/Rohan-J123/CrimeChronicles/tree/main/CrimeChronicles/Assets/StreamingAssets/Scripts/contextful_parsing).
-2. Download the repository to your local machine.
-
-### Start the Server:
-
-1. Execute the run.sh file using bash or run the commands listed in the file individually in the terminal. This will initialize the server using Docker.
+1. Download the repository to your local machine.
+2. Navigate to the [required directory](https://github.com/Rohan-J123/CrimeChronicles/tree/main/CrimeChronicles/Assets/StreamingAssets/Scripts/contextful_parsing).
+3. Execute the run.sh file using bash or run the commands listed in the file individually in the terminal. This will initialize the server using Docker.
 
 ### Connect to the Server:
 
@@ -63,6 +60,29 @@ https://github.com/Rohan-J123/CrimeChronicles/assets/139244765/d0c9342d-4579-40c
 Pose questions to characters like "Sherlock Holmes", "Inspector", or any of the other suspects by using their names.
 2. Determine the Murderer:
 Once you have gathered enough information, query "Sherlock Holmes Reveal" to find out who the murderer is.
+
+# Target Audience for Crime Chronicles
+Crime Chronicles is designed for a diverse range of players, including:
+
+### Mystery Enthusiasts:
+Fans of detective stories and murder mysteries will enjoy the engaging narrative and the process of solving a crime through interrogation and deduction.
+
+### Puzzle Solvers:
+Players who enjoy solving puzzles and critical thinking challenges will find the game's interrogative and analytical elements appealing.
+
+### Interactive Story Lovers:
+Those who appreciate interactive fiction and narrative-driven games will be drawn to the immersive storytelling and character interactions.
+
+### Fans of Sherlock Holmes:
+Admirers of the Sherlock Holmes universe will appreciate the inclusion of familiar characters like Sherlock Holmes and Inspector Lestrade, which adds a layer of authenticity and excitement.
+
+### Casual Gamers:
+With intuitive gameplay mechanics and a straightforward setup, the game is accessible to casual gamers looking for a fun and engaging way to pass the time.
+
+### Educational Use:
+Educators and trainers may use the game as a tool to develop critical thinking, problem-solving, and analytical skills in an entertaining format.
+
+Whether you are a seasoned detective or new to the genre, Crime Chronicles offers an engaging and thought-provoking experience for all players.
 
 Enjoy your immersive investigative experience with Crime Chronicles!
 
