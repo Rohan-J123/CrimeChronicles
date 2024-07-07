@@ -7,3 +7,7 @@ Step into the shoes of Dr. John Watson in "Crime Chronicles," an immersive detec
 Meet the five suspects, each with a complex background. Engage in deep, branching dialogues powered by OpenAI’s language model, where each response can uncover new information or raise further questions. When you feel confident in your deductions, make your final accusation. 
 
 Can you uncover the truth behind the murder and bring the murderer to light?
+
+https://github.com/Rohan-J123/CrimeChronicles/assets/139244765/840a00f3-7ade-4a08-86eb-ae2c0ed757fc
+
+
