@@ -8,6 +8,14 @@ Meet the five suspects, each with a complex background. Engage in deep, branchin
 
 Can you uncover the truth behind the murder and bring the murderer to light?
 
+# Table of Content
+
+[How to Play using Game UI]([link](https://github.com/Rohan-J123/CrimeChronicles#how-to-play-using-game-ui))
+[How to Play using Terminal]([link](https://github.com/Rohan-J123/CrimeChronicles#how-to-play-using-terminal))
+[Target Audience for Crime Chronicles]([link](https://github.com/Rohan-J123/CrimeChronicles#target-audience-for-crime-chronicles))
+[Architectural Design]([link](https://github.com/Rohan-J123/CrimeChronicles#architectural-design))
+[FrameWork]([link](https://github.com/Rohan-J123/CrimeChronicles#framework))
+
 # How to Play using Game UI
 
 https://github.com/Rohan-J123/CrimeChronicles/assets/139244765/840a00f3-7ade-4a08-86eb-ae2c0ed757fc
@@ -83,6 +91,11 @@ With intuitive gameplay mechanics and a straightforward setup, the game is acces
 Educators and trainers may use the game as a tool to develop critical thinking, problem-solving, and analytical skills in an entertaining format.
 
 Whether you are a seasoned detective or new to the genre, Crime Chronicles offers an engaging and thought-provoking experience for all players.
+
+# Architectural Design
+
+![CrimeChroniclesArchitecturalDesign](https://github.com/user-attachments/assets/602a5d9d-29cc-4bc6-8259-e53e2aea8ffb)
+
 
 # Framework
 ### Integration with Pathway Library and OpenAI:
