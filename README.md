@@ -10,11 +10,11 @@ Can you uncover the truth behind the murder and bring the murderer to light?
 
 # Table of Content
 
-[How to Play using Game UI]([link](https://github.com/Rohan-J123/CrimeChronicles#how-to-play-using-game-ui))
-[How to Play using Terminal]([link](https://github.com/Rohan-J123/CrimeChronicles#how-to-play-using-terminal))
-[Target Audience for Crime Chronicles]([link](https://github.com/Rohan-J123/CrimeChronicles#target-audience-for-crime-chronicles))
-[Architectural Design]([link](https://github.com/Rohan-J123/CrimeChronicles#architectural-design))
-[FrameWork]([link](https://github.com/Rohan-J123/CrimeChronicles#framework))
+[How to Play using Game UI](https://github.com/Rohan-J123/CrimeChronicles#how-to-play-using-game-ui)
+[How to Play using Terminal](https://github.com/Rohan-J123/CrimeChronicles#how-to-play-using-terminal)
+[Target Audience for Crime Chronicles](https://github.com/Rohan-J123/CrimeChronicles#target-audience-for-crime-chronicles)
+[Architectural Design](https://github.com/Rohan-J123/CrimeChronicles#architectural-design)
+[FrameWork](https://github.com/Rohan-J123/CrimeChronicles#framework)
 
 # How to Play using Game UI
 
